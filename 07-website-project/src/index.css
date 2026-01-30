@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* to remove diaplaying of scroll bar  */
+
+#right::-webkit-scrollbar {
+    display: none;
+}
